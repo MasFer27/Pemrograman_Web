@@ -1,0 +1,5 @@
+Aturan penamaan variabel PHP:
+- Diawali dgn tanda $
+- Dilanjutkan dgn huruf atau Underscore ( _ )
+- Bersifat case-sensitive
+- Tidak menggunakan spasi, ganti spasi dgn underscore
