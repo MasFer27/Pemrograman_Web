@@ -1,0 +1,34 @@
+<?php
+
+/*
+Nama    : FERLI
+NIM     : 210511140
+Kelas   : D
+Prodi   : TIF
+*/
+
+echo "<h2>Menghitung Luas dan Keliling Segitiga</h2>"; //judul
+//Variabbel
+$sisia = 40;
+$sisib = 30;
+$sisic = 30;
+$tinggi = 20;
+
+//Rumus 
+$luas = 1 / 2 * $sisia * $tinggi;
+
+$keliling = $sisia + $sisib + $sisic ;
+
+//Output 
+echo "Sisi A = " . $sisia;
+echo "<br/>";
+echo "Sisi B = " . $sisib;
+echo "<br/>";
+echo "Sisi C = " . $sisic;
+echo "<br/>";
+echo "<br/>";
+echo "Luas = " . $luas;
+echo "<br/>";
+echo "Keliling = " . $keliling;
+
+?>
